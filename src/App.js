@@ -4,8 +4,8 @@ import "./App.css";
 export class App extends Component {
   render() {
     return (
-      <div>
-        <h2>welcome</h2>
+      <div className="App">
+        <h2>Welcome</h2>
       </div>
     );
   }
